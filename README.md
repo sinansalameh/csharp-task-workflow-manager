@@ -47,14 +47,16 @@ tasks.json → example task storage file
 
 ## Example JSON Storage
 
-{
-"Title": "Study C#",
-"Status": "Pending"
-},
-{
-"Title": "Build internship project",
-"Status": "Completed"
-}
+[
+  {
+    "Title": "Study C#",
+    "Status": "Pending"
+  },
+  {
+    "Title": "Build internship project",
+    "Status": "Completed"
+  }
+]
 
 ---
 
