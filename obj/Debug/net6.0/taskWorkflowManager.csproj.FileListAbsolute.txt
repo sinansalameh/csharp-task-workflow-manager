@@ -1,0 +1,15 @@
+D:\Projects\C#\taskWorkflowManager\bin\Debug\net6.0\taskWorkflowManager.exe
+D:\Projects\C#\taskWorkflowManager\bin\Debug\net6.0\taskWorkflowManager.deps.json
+D:\Projects\C#\taskWorkflowManager\bin\Debug\net6.0\taskWorkflowManager.runtimeconfig.json
+D:\Projects\C#\taskWorkflowManager\bin\Debug\net6.0\taskWorkflowManager.dll
+D:\Projects\C#\taskWorkflowManager\bin\Debug\net6.0\taskWorkflowManager.pdb
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\taskWorkflowManager.csproj.AssemblyReference.cache
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\taskWorkflowManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\taskWorkflowManager.AssemblyInfoInputs.cache
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\taskWorkflowManager.AssemblyInfo.cs
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\taskWorkflowManager.csproj.CoreCompileInputs.cache
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\taskWorkflowManager.dll
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\refint\taskWorkflowManager.dll
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\taskWorkflowManager.pdb
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\taskWorkflowManager.genruntimeconfig.cache
+D:\Projects\C#\taskWorkflowManager\obj\Debug\net6.0\ref\taskWorkflowManager.dll
